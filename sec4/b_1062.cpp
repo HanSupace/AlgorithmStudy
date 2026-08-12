@@ -2,7 +2,7 @@
 using namespace std;
 const int INF = -987654321;
 
-int words[50], n, k, res=INF;
+int words[51], n, k, res=INF;
 
     int count(int mask){
         int cnt=0;
